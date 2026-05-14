@@ -26,7 +26,9 @@ Educational Impact: Provides a clear path for children to understand "Broadcast"
 Instant Playability: No installation required; runs directly in the browser for maximum reach.
 
 📸 Screenshots & Demos
-Check the ![Smart-Recycle-.gif](Smart-Recycle-.gif) above to see the game in action!
+Check the above to see the game in action!
+
+![Smart-Recycle-.gif](Smart-Recycle-.gif) 
 
 🇹🇷 Türkçe Özet
 Akıllı Geri Dönüşüm, çocuklara çevre bilincini eğlenceli bir şekilde öğretmek için tasarlanmış bir eğitim projesidir. Scratch üzerinde geliştirilen bu oyun, meyveleri ve atıkları doğru kategorilere ayırmayı hedefler. Geliştirme sürecinde Python ile performans testleri yapılmış olsa da, çocukların sürükle-bırak mantığını daha kolay kavrayabilmesi için proje Scratch platformunda tamamlanmıştır.
